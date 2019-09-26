@@ -1,0 +1,12 @@
+Design and evaluation of a prototype of augmented reality applied to
+medical devices
+-"Even though use of medical devices is extremely beneficial for patient care, potential problems associated with their use may produce
+severe, negative consequences, compromising patient safety."
+
+-"medical device manufacturers
+are obliged by Spanish legislation for each device to include “the necessary information to use it completely safely and properly, considering potential users’ training and knowledge, and to identify the
+manufacturer”"
+
+-"Participation from the research team, as future users, led to
+a participatory design involving users in the design of the device [22].
+"
