@@ -10,3 +10,11 @@ manufacturer”"
 -"Participation from the research team, as future users, led to
 a participatory design involving users in the design of the device [22].
 "
+
+General Requirements for Industrial Augmented Reality Applications
+-" Although Augmented Reality applications have been used
+successfully in medical or military contexts for many years, industrial applications are often perceived as isolated solutions that are only applicable
+in a defined and static work environment."
+
+-" Although the integration of individual workpieces is a strongly desired feature, it requires considerable development effort, which leads to additional
+costs and cannot be performed instantly."
