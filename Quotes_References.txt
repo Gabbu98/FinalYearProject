@@ -18,3 +18,36 @@ in a defined and static work environment."
 
 -" Although the integration of individual workpieces is a strongly desired feature, it requires considerable development effort, which leads to additional
 costs and cannot be performed instantly."
+
+Pottential applications for virtual and augmented reality technologies in sensory science
+-". Increasingly, sensory data techniques are moving towards
+more dynamic aspects of sensory perception, taking account of the various stages of user-product interactions.
+Recent technological advancements in virtual reality and augmented reality have unlocked the potential for new
+immersive and interactive systems which could be applied as powerful tools for capturing and deciphering the
+complexities of human sensory perception."
+
+-"Augmented reality is a relatively newer form of human-computer interaction which superimposes computer-generated information into a
+person's view of the real world, creating an illusion where both virtual and real objects coexist in the same space (Ong & Nee, 2004)"
+
+-"Therefore, AR can be differentiated from VR, given that the former overlays
+digital information in a real environment, rather than completely replacing it. In addition to combining real and virtual information, a true
+AR system should run interactively in real time, and seamlessly align
+natural world and virtual objects with each other (Azuma et al., 2001;
+Kipper & Rampolia, 2013)."
+
+-"The earliest technological development in AR can be traced back to Ivan Sutherland's work on the Swords of Damocles HMD."
+
+-"recreating a physical
+immersive environment could improve the ecological validity of research, it requires a relatively large amount of space and can be a rather
+expensive and time-consuming task."
+
+-"However, regardless of the approach, it must be kept
+in mind that research on the contextual effects VR/AR environments is
+in its infancy, and further research is necessary to facilitate their confident application in improving the reliability of consumer sensory
+evaluations."
+
+-"therefore the accuracy of
+the data is dependent on the individual's ability to articulate their hedonic and emotional perceptions to food stimuli."
+
+-". VR and AR can also enable the interactive visualisation of complex food ingredient structures and their interplay with dynamic sensory data, enhancing our understanding of oral food processing, potentially leading to new manufacturing practices, food products and
+customer experiences"
