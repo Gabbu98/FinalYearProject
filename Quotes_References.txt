@@ -49,5 +49,9 @@ evaluations."
 -"therefore the accuracy of
 the data is dependent on the individual's ability to articulate their hedonic and emotional perceptions to food stimuli."
 
--". VR and AR can also enable the interactive visualisation of complex food ingredient structures and their interplay with dynamic sensory data, enhancing our understanding of oral food processing, potentially leading to new manufacturing practices, food products and
+-"VR and AR can also enable the interactive visualisation of complex food ingredient structures and their interplay with dynamic sensory data, enhancing our understanding of oral food processing, potentially leading to new manufacturing practices, food products and
 customer experiences"
+
+Potentials of Augmented Reality in Training 
+-"The debate surrounding about changing processes by using new technologies, this also implies a change in the way people work."
+-"This raises the question of how far digital supporting systems, in particular AR technologies, not only improve the process itself, but can also be used as an innovative medium for practice-oriented learning."
