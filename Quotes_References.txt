@@ -59,3 +59,4 @@ Potentials of Augmented Reality in Training
 Augmented reality in support of Industry 4.0—Implementation challenges and success factors
 -"AR is an important technology for the Industry4.0 approach[2]. As those approaches promote a human-centric industrial environment, AR is one approach to augment the worker[12]."
 -"AR is a complex technology.Thiscomplexity arises on the one hand from the technology itself. The system has to be integrated into the current IT infrastructure"
+-""
